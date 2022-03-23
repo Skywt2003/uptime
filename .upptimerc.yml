@@ -19,8 +19,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://blog.skywt.cn/usr/themes/sky/assets/avatar.png 
   name: Uptime
-  introTitle: "Here is the uptime status of servers, powered by Github Actions."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Uptime status, powered by Github Actions & Upptime."
+  introMessage: Here is uptime status of my servers.
   navbar:
     - title: Home
       href: https://skywt.cn
