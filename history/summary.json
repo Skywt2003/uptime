@@ -63,19 +63,19 @@
     "url": "https://v.skywt.cn",
     "icon": "https://favicons.githubusercontent.com/v.skywt.cn",
     "slug": "vultr-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 505,
-    "timeDay": 318,
-    "timeWeek": 445,
-    "timeMonth": 501,
-    "timeYear": 505,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 504,
+    "timeDay": 345,
+    "timeWeek": 436,
+    "timeMonth": 497,
+    "timeYear": 504,
     "dailyMinutesDown": {
-      "2022-06-10": 0
+      "2022-06-10": 18
     }
   },
   {
