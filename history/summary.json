@@ -8,12 +8,12 @@
     "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.42%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "99.76%",
     "time": 1023,
     "timeDay": 820,
     "timeWeek": 987,
-    "timeMonth": 1003,
+    "timeMonth": 1001,
     "timeYear": 1023,
     "dailyMinutesDown": {
       "2022-05-18": 47,
@@ -31,11 +31,11 @@
     "icon": "https://favicons.githubusercontent.com/blog.skywt.cn",
     "slug": "blog",
     "status": "up",
-    "uptime": "98.85%",
+    "uptime": "98.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "98.85%",
+    "uptimeYear": "98.86%",
     "time": 6615,
     "timeDay": 2740,
     "timeWeek": 3437,
@@ -63,7 +63,7 @@
     "url": "https://v.skywt.cn",
     "icon": "https://favicons.githubusercontent.com/v.skywt.cn",
     "slug": "vultr-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -74,7 +74,9 @@
     "timeWeek": 445,
     "timeMonth": 501,
     "timeYear": 505,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-10": 0
+    }
   },
   {
     "name": "Vultr Server (Cloudflare)",
