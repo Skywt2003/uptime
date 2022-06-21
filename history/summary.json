@@ -85,19 +85,19 @@
     "url": "https://skywt.tech",
     "icon": "https://favicons.githubusercontent.com/skywt.tech",
     "slug": "vultr-server-cloudflare",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 296,
-    "timeWeek": 271,
-    "timeMonth": 212,
-    "timeYear": 228,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "96.85%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.97%",
+    "time": 226,
+    "timeDay": 212,
+    "timeWeek": 253,
+    "timeMonth": 209,
+    "timeYear": 226,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 45
     }
   }
 ]
