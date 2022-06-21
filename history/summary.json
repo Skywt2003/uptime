@@ -31,11 +31,11 @@
     "icon": "https://favicons.githubusercontent.com/blog.skywt.cn",
     "slug": "blog",
     "status": "up",
-    "uptime": "98.64%",
+    "uptime": "98.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.51%",
     "uptimeMonth": "98.81%",
-    "uptimeYear": "98.64%",
+    "uptimeYear": "98.65%",
     "time": 6442,
     "timeDay": 3814,
     "timeWeek": 5185,
@@ -85,9 +85,9 @@
     "url": "https://skywt.tech",
     "icon": "https://favicons.githubusercontent.com/skywt.tech",
     "slug": "vultr-server-cloudflare",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -96,6 +96,8 @@
     "timeWeek": 271,
     "timeMonth": 212,
     "timeYear": 228,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   }
 ]
