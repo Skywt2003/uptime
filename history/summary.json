@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 1160,
-    "timeDay": 4622,
-    "timeWeek": 1571,
-    "timeMonth": 1349,
+    "time": 1159,
+    "timeDay": 1004,
+    "timeWeek": 1570,
+    "timeMonth": 1347,
     "timeYear": 1161,
     "dailyMinutesDown": {
       "2023-01-25": 19,
@@ -48,18 +48,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.skywt.cn.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.47%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "94.07%",
-    "uptimeMonth": "98.55%",
+    "uptime": "99.48%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.27%",
+    "uptimeMonth": "98.58%",
     "uptimeYear": "99.47%",
-    "time": 4515,
-    "timeDay": 10306,
-    "timeWeek": 7480,
-    "timeMonth": 5060,
-    "timeYear": 4509,
+    "time": 4512,
+    "timeDay": 10323,
+    "timeWeek": 7730,
+    "timeMonth": 5080,
+    "timeYear": 4511,
     "dailyMinutesDown": {
-      "2023-03-24": 12,
       "2023-03-22": 103,
       "2023-03-21": 92,
       "2023-03-20": 22,
@@ -85,8 +84,7 @@
       "2022-04-11": 157,
       "2022-04-09": 118,
       "2022-04-08": 155,
-      "2022-04-07": 109,
-      "2022-03-25": 46
+      "2022-04-07": 109
     }
   },
   {
@@ -101,9 +99,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 546,
-    "timeDay": 396,
-    "timeWeek": 460,
-    "timeMonth": 666,
+    "timeDay": 519,
+    "timeWeek": 502,
+    "timeMonth": 661,
     "timeYear": 547,
     "dailyMinutesDown": {
       "2022-06-10": 18
@@ -121,9 +119,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 230,
-    "timeDay": 211,
-    "timeWeek": 195,
-    "timeMonth": 223,
+    "timeDay": 221,
+    "timeWeek": 216,
+    "timeMonth": 221,
     "timeYear": 230,
     "dailyMinutesDown": {
       "2022-06-21": 45
