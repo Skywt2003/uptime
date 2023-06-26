@@ -10,7 +10,7 @@ sites:
   - name: Vultr Server
     url: https://v.skywt.cn
   - name: Vultr Server (Cloudflare)
-    url: https://skywt.tech
+    url: https://skywt.eu.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
