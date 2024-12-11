@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 865,
-    "timeDay": 398,
-    "timeWeek": 457,
-    "timeMonth": 414,
-    "timeYear": 709,
+    "time": 864,
+    "timeDay": 441,
+    "timeWeek": 437,
+    "timeMonth": 418,
+    "timeYear": 708,
     "dailyMinutesDown": {
       "2024-03-06": 37,
       "2024-01-27": 20
@@ -31,10 +31,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.60%",
     "uptimeYear": "99.68%",
-    "time": 2023,
-    "timeDay": 1097,
-    "timeWeek": 1314,
-    "timeMonth": 1207,
+    "time": 1988,
+    "timeDay": 1420,
+    "timeWeek": 1313,
+    "timeMonth": 1214,
     "timeYear": 1623,
     "dailyMinutesDown": {
       "2024-11-22": 768,
@@ -55,16 +55,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/v.skywt.cn.ico",
     "slug": "vultr-server",
     "status": "up",
-    "uptime": "97.58%",
+    "uptime": "97.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 559,
-    "timeDay": 373,
-    "timeWeek": 491,
-    "timeMonth": 465,
-    "timeYear": 547,
+    "timeDay": 425,
+    "timeWeek": 509,
+    "timeMonth": 470,
+    "timeYear": 548,
     "dailyMinutesDown": {
       "2023-12-26": 216
     }
@@ -81,10 +81,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 432,
-    "timeDay": 240,
-    "timeWeek": 420,
-    "timeMonth": 551,
-    "timeYear": 476,
+    "timeDay": 519,
+    "timeWeek": 439,
+    "timeMonth": 557,
+    "timeYear": 477,
     "dailyMinutesDown": {
       "2023-12-26": 216
     }
