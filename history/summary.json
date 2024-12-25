@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 845,
-    "timeDay": 442,
-    "timeWeek": 470,
-    "timeMonth": 421,
-    "timeYear": 680,
+    "time": 843,
+    "timeDay": 188,
+    "timeWeek": 451,
+    "timeMonth": 417,
+    "timeYear": 677,
     "dailyMinutesDown": {
       "2024-03-06": 37,
       "2024-01-27": 20
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
-    "time": 1884,
-    "timeDay": 1659,
-    "timeWeek": 1210,
+    "time": 1882,
+    "timeDay": 1233,
+    "timeWeek": 1257,
     "timeMonth": 1257,
-    "timeYear": 1570,
+    "timeYear": 1567,
     "dailyMinutesDown": {
       "2024-11-22": 768,
       "2024-11-21": 722,
@@ -60,14 +60,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 557,
-    "timeDay": 430,
-    "timeWeek": 486,
-    "timeMonth": 449,
-    "timeYear": 541,
-    "dailyMinutesDown": {
-      "2023-12-26": 216
-    }
+    "time": 556,
+    "timeDay": 388,
+    "timeWeek": 495,
+    "timeMonth": 447,
+    "timeYear": 540,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Vultr Server (Cloudflare)",
@@ -75,18 +73,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/skywt.eu.org.ico",
     "slug": "vultr-server-cloudflare",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 436,
-    "timeDay": 361,
-    "timeWeek": 449,
-    "timeMonth": 447,
+    "timeDay": 353,
+    "timeWeek": 457,
+    "timeMonth": 435,
     "timeYear": 482,
-    "dailyMinutesDown": {
-      "2023-12-26": 216
-    }
+    "dailyMinutesDown": {}
   }
 ]
