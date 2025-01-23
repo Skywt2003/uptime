@@ -55,19 +55,19 @@
     "url": "https://v.skywt.cn",
     "icon": "https://icons.duckduckgo.com/ip3/v.skywt.cn.ico",
     "slug": "vultr-server",
-    "status": "down",
+    "status": "up",
     "uptime": "97.69%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 544,
-    "timeDay": 209,
-    "timeWeek": 411,
+    "timeDay": 294,
+    "timeWeek": 407,
     "timeMonth": 378,
     "timeYear": 524,
     "dailyMinutesDown": {
-      "2025-01-23": 2
+      "2025-01-23": 17
     }
   },
   {
@@ -75,19 +75,19 @@
     "url": "https://skywt.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/skywt.eu.org.ico",
     "slug": "vultr-server-cloudflare",
-    "status": "down",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 443,
-    "timeDay": 400,
-    "timeWeek": 393,
-    "timeMonth": 405,
+    "timeDay": 508,
+    "timeWeek": 421,
+    "timeMonth": 412,
     "timeYear": 491,
     "dailyMinutesDown": {
-      "2025-01-23": 0
+      "2025-01-23": 16
     }
   }
 ]
