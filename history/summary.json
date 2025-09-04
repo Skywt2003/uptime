@@ -6,17 +6,16 @@
     "slug": "sky-wt",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "98.54%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "99.55%",
     "uptimeYear": "99.32%",
-    "time": 3229,
-    "timeDay": 847,
-    "timeWeek": 1128,
-    "timeMonth": 1160,
-    "timeYear": 3672,
+    "time": 3232,
+    "timeDay": 1704,
+    "timeWeek": 1138,
+    "timeMonth": 1189,
+    "timeYear": 3676,
     "dailyMinutesDown": {
-      "2025-09-03": 12,
       "2025-08-31": 31,
       "2025-08-30": 26,
       "2025-08-29": 15,
@@ -78,7 +77,8 @@
       "2025-03-03": 184,
       "2025-03-02": 386,
       "2025-03-01": 208,
-      "2025-02-28": 136
+      "2025-02-28": 136,
+      "2025-02-27": 28
     }
   },
   {
@@ -92,10 +92,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.63%",
-    "time": 1349,
-    "timeDay": 1217,
-    "timeWeek": 1535,
-    "timeMonth": 1353,
+    "time": 1350,
+    "timeDay": 1399,
+    "timeWeek": 1518,
+    "timeMonth": 1368,
     "timeYear": 1314,
     "dailyMinutesDown": {
       "2025-08-19": 56,
@@ -125,9 +125,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 464,
-    "timeDay": 421,
-    "timeWeek": 516,
-    "timeMonth": 473,
+    "timeDay": 518,
+    "timeWeek": 499,
+    "timeMonth": 477,
     "timeYear": 442,
     "dailyMinutesDown": {
       "2025-04-25": 18,
@@ -146,10 +146,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 664,
-    "timeDay": 700,
-    "timeWeek": 468,
-    "timeMonth": 690,
-    "timeYear": 749,
+    "timeDay": 543,
+    "timeWeek": 489,
+    "timeMonth": 701,
+    "timeYear": 736,
     "dailyMinutesDown": {
       "2025-01-23": 16
     }
