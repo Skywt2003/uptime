@@ -136,18 +136,19 @@
     "url": "https://skywt.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/skywt.eu.org.ico",
     "slug": "vultr-server-cloudflare",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 678,
-    "timeDay": 469,
-    "timeWeek": 1061,
-    "timeMonth": 570,
+    "time": 679,
+    "timeDay": 576,
+    "timeWeek": 1014,
+    "timeMonth": 574,
     "timeYear": 731,
     "dailyMinutesDown": {
+      "2025-10-03": 0,
       "2025-01-23": 16
     }
   }
