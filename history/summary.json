@@ -4,18 +4,19 @@
     "url": "https://skywt.cn",
     "icon": "https://icons.duckduckgo.com/ip3/skywt.cn.ico",
     "slug": "sky-wt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.32%",
-    "time": 3288,
-    "timeDay": 1282,
-    "timeWeek": 990,
-    "timeMonth": 1194,
-    "timeYear": 3716,
+    "uptimeYear": "99.33%",
+    "time": 3314,
+    "timeDay": 10965,
+    "timeWeek": 3447,
+    "timeMonth": 1802,
+    "timeYear": 3741,
     "dailyMinutesDown": {
+      "2025-10-20": 0,
       "2025-09-04": 26,
       "2025-08-31": 31,
       "2025-08-30": 26,
@@ -78,7 +79,7 @@
       "2025-03-03": 184,
       "2025-03-02": 386,
       "2025-03-01": 208,
-      "2025-02-28": 136
+      "2025-02-28": 90
     }
   },
   {
