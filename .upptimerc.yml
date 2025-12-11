@@ -15,15 +15,13 @@ status-website:
   # baseUrl: /your-repo-name
   # logoUrl: https://blog.skywt.cn/usr/themes/sky/assets/avatar.png 
   name: Uptime
-  introTitle: "Uptime status, powered by Github Actions & Upptime."
-  introMessage: Here is uptime status of SkyWT's servers.
-  navbar:
-    - title: Uptime
-      href: /
-    - title: Home
-      href: https://skywt.net
-    - title: Status
-      href: https://status.skywt.cn
+  introTitle: "Uptime Status. "
+  # introMessage: Here is uptime status of SkyWT's servers.
+  # navbar:
+  #  - title: SkyWT (Global)
+  #    href: https://skywt.net
+  #  - title: SkyWT (China)
+  #    href: https://skywt.cn
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
