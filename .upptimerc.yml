@@ -3,33 +3,27 @@ owner: Skywt2003 # Your GitHub organization or username, where this repository l
 repo: uptime # The name of this repository
 
 sites:
-  - name: SkyWT
+  - name: SkyWT (China)
     url: https://skywt.cn
-  - name: Blog
-    url: https://blog.skywt.cn
-  - name: Vultr Server
-    url: https://v.skywt.cn
-  - name: Vultr Server (Cloudflare)
-    url: https://skywt.eu.org
+  - name: SkyWT (Global)
+    url: https://skywt.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: uptime.skywt.cn
+  cname: uptime.skywt.net
   # baseUrl: /your-repo-name
-  logoUrl: https://blog.skywt.cn/usr/themes/sky/assets/avatar.png 
+  # logoUrl: https://blog.skywt.cn/usr/themes/sky/assets/avatar.png 
   name: Uptime
   introTitle: "Uptime status, powered by Github Actions & Upptime."
-  introMessage: Here is uptime status of my servers.
+  introMessage: Here is uptime status of SkyWT's servers.
   navbar:
-    - title: Home
-      href: https://skywt.cn
     - title: Uptime
       href: /
+    - title: Home
+      href: https://skywt.net
     - title: Status
       href: https://status.skywt.cn
-    - title: About
-      href: https://blog.skywt.cn/about
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
