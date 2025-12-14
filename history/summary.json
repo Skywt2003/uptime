@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/skywt.cn.ico",
     "slug": "sky-wt-china",
     "status": "up",
-    "uptime": "96.46%",
+    "uptime": "97.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.46%",
-    "uptimeMonth": "96.46%",
-    "uptimeYear": "96.46%",
-    "time": 2006,
-    "timeDay": 2065,
-    "timeWeek": 2006,
-    "timeMonth": 2006,
-    "timeYear": 2006,
+    "uptimeWeek": "97.65%",
+    "uptimeMonth": "97.65%",
+    "uptimeYear": "97.65%",
+    "time": 2135,
+    "timeDay": 2777,
+    "timeWeek": 2135,
+    "timeMonth": 2135,
+    "timeYear": 2135,
     "dailyMinutesDown": {
       "2025-12-11": 101
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 560,
-    "timeDay": 314,
-    "timeWeek": 560,
-    "timeMonth": 560,
-    "timeYear": 560,
+    "time": 582,
+    "timeDay": 673,
+    "timeWeek": 582,
+    "timeMonth": 582,
+    "timeYear": 582,
     "dailyMinutesDown": {}
   }
 ]
