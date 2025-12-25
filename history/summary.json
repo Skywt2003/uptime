@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/skywt.cn.ico",
     "slug": "sky-wt-china",
     "status": "up",
-    "uptime": "98.28%",
+    "uptime": "98.37%",
     "uptimeDay": "96.99%",
-    "uptimeWeek": "98.25%",
-    "uptimeMonth": "98.28%",
-    "uptimeYear": "98.28%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "98.37%",
+    "uptimeYear": "98.37%",
     "time": 2081,
-    "timeDay": 2076,
-    "timeWeek": 1999,
+    "timeDay": 2063,
+    "timeWeek": 1980,
     "timeMonth": 2081,
     "timeYear": 2081,
     "dailyMinutesDown": {
@@ -30,7 +30,7 @@
     "url": "https://skywt.net",
     "icon": "https://icons.duckduckgo.com/ip3/skywt.net.ico",
     "slug": "sky-wt-global",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -41,6 +41,8 @@
     "timeWeek": 640,
     "timeMonth": 652,
     "timeYear": 652,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-25": 0
+    }
   }
 ]
